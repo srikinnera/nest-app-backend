@@ -16,15 +16,6 @@ This is a NestJS backend application for the product managment. It includes endp
 
 `$ npm run start` 
 
-### Watch mode
-
- 
-`$ npm run start:dev` 
-
-### Production mode
-
- 
-`$ npm run start:prod` 
 
 The application will be accessible on http://localhost:8080.
 
